@@ -1,0 +1,42 @@
+.App {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #faa9e2;
+    color: #f4f4f479;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #faa9e2;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background: #f4f4f479;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #c900fc;
+  }
+  
